@@ -1,4 +1,5 @@
-# React File Upload
+# These files were forked from Brad Traversy's (bradtraversy) repository.
+# React File Upload 
 
 > This is a full stack React-Express file uploader but could easily be modified to work with any back-end including cloud storage
 
